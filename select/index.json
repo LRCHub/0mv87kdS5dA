@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Blonde",
+  "base_artist": "KEIJU",
+  "createdAt": "2026-02-15T05:08:09.942053Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Suicide Blonde",
+      "artist": "The Weepies",
+      "has_synced": true,
+      "path": "select/01_Suicide_Blonde_The_Weepies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blonde",
+      "artist": "Love Battery",
+      "has_synced": false,
+      "path": "select/02_Blonde_Love_Battery.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blonde on Blonde",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/03_Blonde_on_Blonde_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Platinum Blonde Life",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/04_Platinum_Blonde_Life_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Miss Blonde, Your Papa Is Failing",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/05_Miss_Blonde,_Your_Papa_Is_Failing_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Miss Blonde Your Papa Is Failing",
+      "artist": "Of Montreal",
+      "has_synced": true,
+      "path": "select/06_Miss_Blonde_Your_Papa_Is_Failing_Of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dumb Blonde",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/07_Dumb_Blonde_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lovely Blonde",
+      "artist": "Sébastien Tellier",
+      "has_synced": false,
+      "path": "select/08_Lovely_Blonde_Sébastien_Tellier.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Blonde",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/09_Love_Blonde_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Blonde (12\" Version)",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/10_Love_Blonde_(12__Version)_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Blonde(12''version)",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/11_Love_Blonde(12''version)_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Blonde - 7\" Version, 2020 Remaster",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/12_Love_Blonde_-_7__Version,_2020_Remaster_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Blonde(7''version)",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/13_Love_Blonde(7''version)_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Suicide Blonde",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/14_Suicide_Blonde_INXS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blonde",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_Blonde_KEIJU.txt"
+    }
+  ]
+}
